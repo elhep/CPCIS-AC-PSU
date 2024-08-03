@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=DIOT_PSU_AC_180.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=DIOT_PSU_AC_180.SchDoc|Designator=U_LED_bargraph|SchDesignator=U_LED_bargraph|FileName=LED_bargraph.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LED_bargraph.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIOT_PSU_AC_180.SchDoc|Designator=U_Mechanics|SchDesignator=U_Mechanics|FileName=Mechanics.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Mechanics.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIOT_PSU_AC_180.SchDoc|Designator=U_PWR_stage_AC|SchDesignator=U_PWR_stage_AC|FileName=PWR_stage_AC.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=PWR_stage_AC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
